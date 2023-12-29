@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
-<h3 align="center">A Software Engineer From Rhode Island</h3>
+<h3 align="center">A Software Engineer From Northeast Ohio</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
